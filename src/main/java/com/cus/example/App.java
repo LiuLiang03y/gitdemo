@@ -1,4 +1,4 @@
- package com.cus.example;
+package com.cus.example;
 
 /**
  * @Description: TODO
@@ -14,5 +14,6 @@ public class App {
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Hello World2!" );
     }
 }
