@@ -21,5 +21,6 @@ public class App {
         System.out.println("Main   Hot-Fix");
         System.out.println("Hot-Fix   Main");
         System.out.println("Main Push");
+        System.out.println("Main SSH-Push");
     }
 }
